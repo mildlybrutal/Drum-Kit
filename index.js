@@ -28,7 +28,7 @@ function makeSound(key) {
             kickBass.play();
             break;
         case 's':
-            let snare=new Audio('sounds/crash.mp3');
+            let snare=new Audio('sounds/snare.mp3');
             snare.play();
             break;
         case 'd':
